@@ -6,28 +6,21 @@
 
 ## How do I approach designing software?
 
-When I design software, I start by thinking about the final result I want to create. For this project, I pictured the full 3D scene first and then broke it down into smaller objects. Instead of building everything at once, I focused on creating one object at a time using simple shapes. I think about layout, balance, and how the user will interact with what I create.
+When I design software, I start by thinking about the final result I want to create. For this project, I focused on building a full 3D scene that felt realistic and intentional. Instead of building everything at once, I broke it down into smaller objects and worked on one piece at a time. I think about layout, balance, and how the user will move through and experience what I create.
 
 ## What new design skills has this project helped me craft?
 
-This project helped me improve my spatial thinking and planning. I learned how to build more complex objects by combining simple primitive meshes like boxes and cylinders. I also learned how important textures, materials, and lighting are in making a scene feel realistic.
+This project helped me improve my spatial thinking and planning. I learned how to build more complex objects by combining simple primitive meshes like boxes and cylinders. I also learned how important textures, materials, and lighting are in making a scene feel realistic. Small changes to lighting or scale can completely change how an object looks.
 
 ## What design process did you follow?
 
-For this project, I followed a step-by-step process:
-- Sketched the idea of my scene
-- Broke objects into simple shapes
-- Built the structure first
-- Added textures and materials
-- Adjusted lighting
-- Tested camera movement
-- Refined details
+For this project, I started by finding an image online of a vanity setup that I liked. I used that image as a reference and then broke it down into simple shapes I could recreate using primitive meshes. I built the main structure first (desk, mirror, bench), then added smaller objects like the nail polish and plant.
 
-I worked in layers instead of trying to perfect everything at once.
+After the layout was complete, I added textures and materials. Then I adjusted lighting and camera movement. I refined the scene by testing and making small changes until everything looked balanced.
 
 ## How could this design approach be applied in future work?
 
-Breaking problems into smaller pieces is something I can apply to any future project. Whether I am building software, working with data, or creating visual tools, starting simple and refining over time makes the work more manageable.
+Breaking problems into smaller pieces is something I can apply to any future project. Whether I am building software, working with data, or creating visual tools, starting simple and refining over time makes the work more manageable and less overwhelming.
 
 ---
 
@@ -51,7 +44,7 @@ At the beginning, I focused mainly on making objects appear correctly. As the mi
 
 ## How can computer science help me in reaching my goals?
 
-Computer science strengthens my problem-solving skills and structured thinking. It teaches me how to break down complex systems and build them step by step, which applies to many areas of technology.
+Computer science strengthens my problem-solving skills and structured thinking. It teaches me how to break down complex systems and build them step by step. These skills apply to many different areas of technology.
 
 ## How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future educational pathway?
 
